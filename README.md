@@ -1,5 +1,21 @@
 # multimedial
 ## Exploración creativa de arte, tecnología y medios digitales interactivos.
+
+### index
+## Unidad I.  [Hipervícunlo](#unidad-i--hipervicunlo-) <br> 
+
+5. [Mi sitio web portafolio](https://lenlody.github.io/barahona-portafolio/index.html)
+
+## Unidad II. [Programación visual creativa basada en nodos](#programación-visual-creativa-basada-en-nodos) <br>
+1. [Intro ToucDesigner](#1-intro-a-touchdesigner) <br>
+2. [Ejercicios:](#2-canasta-de-ejercicios) <br>
+
+
+![GIF](https://i.giphy.com/GX3U5XoiugyWj4XepN.gif)
+
+##### Nube de puntos con Pop basada en imágenes, Lsystem, Mapping básico 
+
+
 Ejercicio 1, semana 1
 ```
 <!DOCTYPE html>
