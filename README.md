@@ -10,13 +10,27 @@
 1. [Intro ToucDesigner](#1-intro-a-touchdesigner) <br>
 2. [Ejercicios:](#2-canasta-de-ejercicios) <br>
 
+<span style="color:red">Ejercicio Lsystem</span><br>
+link: https://drive.google.com/file/d/17kkeprhhJ95o54SF7PYyp5Yd8idTZJBE/view?usp=drive_link
+
+- Ejercicio llamado Lsystem realizado en Touch Designer. Simula un árbol con tronco y ramas blancas con efecto bloom y tiene unas hojas circulares de color rojo.
+
+<br>
 
 ![GIF](https://i.giphy.com/GX3U5XoiugyWj4XepN.gif)
 
 ##### Nube de puntos con Pop basada en imágenes, Lsystem, Mapping básico 
 
 
-Ejercicio 1, semana 1
+<span style="color:green">Ejercicio Noise/Point</span><br>
+link: https://drive.google.com/file/d/1p3h60QSfKZ1pAhyaTHHiXqwQd4l2HRQ7/view?usp=drive_link
+
+- Ejercicio con figuras interactivas que cambian según los sliders. En el centro tiene una figura con colores en formas circulasres que se mueven de dentro hacia afuera.
+
+<br>
+
+![GIF](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExejB5cHZ0bzFvdjl4ZXYxN2hvbGQzeWx4OXNvOGQzNDgxejU5NGc5MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xVLYVvin9vGK49t7Hn/giphy.gif)
+
 ```
 <!DOCTYPE html>
 <!-- Indica al navegador que este documento usa HTML5 -->
